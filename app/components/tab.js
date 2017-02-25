@@ -1,5 +1,5 @@
 var React = require('react');
-var Tab1= React.createClass({
+var tab= React.createClass({
       render: function () {
                 return (
                               <div>
