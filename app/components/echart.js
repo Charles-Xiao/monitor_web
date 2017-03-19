@@ -30,7 +30,7 @@ fetch(url, {
     xAxis: { data: data.status },
     series: [{
       name: '价格',
-      data: data.price
+      data: data.cn_prices
     }]
   });
 
